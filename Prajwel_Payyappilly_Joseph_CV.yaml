@@ -15,7 +15,7 @@ cv:
   custom_connections:
   sections:
     Summary:
-      - I am a Project Scientist at the AstroSat UltraViolet Imaging Telescope (UVIT) Payload Operations Centre at the Indian Institute of Astrophysics, Bangalore. My research focuses on ultraviolet and multi-wavelength studies of nearby galaxies, AGN feedback, and star formation, supported by extensive experience in space-mission operations and data pipeline development. I actively develop and maintain open-source software for UV astronomy.
+      - I am a Project Scientist at the AstroSat UltraViolet Imaging Telescope (UVIT) Payload Operations Centre at the Indian Institute of Astrophysics, Bangalore with extensive experience in payload operations and data pipeline development. My research focuses on ultraviolet and multi-wavelength studies of nearby galaxies, AGN feedback, star formation, and time-domain astronomy in the ultraviolet. I actively develop and maintain open-source software for UV astronomy.
     education:
       - institution: CHRIST (Deemed to be University)
         area: Physics
@@ -26,7 +26,7 @@ cv:
         end_date: 2025-03
         summary:
         highlights:
-          - 'Thesis: [Study of the effect of AGN activity on star formation in nearby galaxies using UVIT](https://github.com/prajwel/PhD_thesis/blob/main/thesis_final.pdf)'
+          - 'Thesis (PhD): [Study of the effect of AGN activity on star formation in nearby galaxies using UVIT](https://github.com/prajwel/PhD_thesis/blob/main/thesis_final.pdf)'
           - 'Supervisors: Dr. Blesson Mathew, Prof. P. Sreekumar'
       - institution: CHRIST (Deemed to be University)
         area: Physics
@@ -52,7 +52,7 @@ cv:
         highlights:
           - Lead contributor to UVIT Level2 pipeline (v7) and mission data products
           - Responsible for UVIT Payload Operations Centre data processing and validation
-          - Support UVIT observations, calibration activities, and mission data releases
+          - Support UVIT observations, calibration activities, and official mission data releases
       - company: Indian Institute of Astrophysics
         position: Research Trainee (UVIT Payload Operations Centre)
         date:
@@ -236,7 +236,7 @@ cv:
         url:
         journal: Journal of Astrophysics and Astronomy
         date: '2021-10-01'
-      - title: Performance of the UVIT Level-2 pipeline
+      - title: Performance of the UVIT Level2 pipeline
         authors:
           - S. K. Ghosh
           - S. N. Tandon
@@ -362,7 +362,7 @@ cv:
       - name: '[UVIT Level2 pipeline](https://github.com/prajwel/UVPipe)'
         summary: Used to generate high-level (Level2) UVIT data products; adopted for official UVIT data release version 7 and archived at ISRO Science Data Archive.
       - name: '[Curvit](https://github.com/prajwel/curvit)'
-        summary: Curvit is a python package to generate light curves from UVIT data.
+        summary: Curvit is a Python package to generate light curves from UVIT data.
       - name: '[Aafitrans](https://github.com/prajwel/aafitrans)'
         summary: Aafitrans is a Python package that builds upon the capabilities of the Astroalign package's find_transform function. It incorporates several modifications to improve its functionality and performance.
       - name: '[CanUVIT](https://github.com/prajwel/canuvit)'
