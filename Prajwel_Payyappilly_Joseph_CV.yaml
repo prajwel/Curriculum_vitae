@@ -18,24 +18,30 @@ cv:
       - I am a Project Scientist at the AstroSat UltraViolet Imaging Telescope (UVIT) Payload Operations Centre at the Indian Institute of Astrophysics, Bangalore. My research focuses on ultraviolet and multi-wavelength studies of nearby galaxies, AGN feedback, and star formation, supported by extensive experience in space-mission operations and data pipeline development. I actively develop and maintain open-source software for UV astronomy.
     education:
       - institution: CHRIST (Deemed to be University)
-        area: Astrophysics
+        area: Physics
         degree: PhD
+        location: Bangalore, India
         date:
         start_date: 2017-12
         end_date: 2025-03
         summary:
         highlights:
-          - 'Thesis: Study of the effect of AGN activity on star formation in nearby galaxies using UVIT'
+          - 'Thesis: [Study of the effect of AGN activity on star formation in nearby galaxies using UVIT](https://github.com/prajwel/PhD_thesis/blob/main/thesis_final.pdf)'
           - 'Supervisors: Dr. Blesson Mathew, Prof. P. Sreekumar'
-          - 'Thesis resulted in first-author refereed publications in A&A and MNRAS.'
       - institution: CHRIST (Deemed to be University)
         area: Physics
         degree: MSc
+        location: Bangalore, India
         date:
-        start_date: 2013-05
+        start_date: 2013-06
         end_date: 2015-03
-        summary:
-        highlights:
+      - institution: Christ College, Irinjalakuda
+        area: Physics
+        degree: BSc
+        location: Thrissur, India
+        date:
+        start_date: 2010-06
+        end_date: 2013-05
     experience:
       - company: Indian Institute of Astrophysics
         position: Project Scientist-I (UVIT Payload Operations Centre)
