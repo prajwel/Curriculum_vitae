@@ -47,339 +47,320 @@ cv:
           - Lead contributor to UVIT Level2 pipeline (v7) and mission data products
           - Responsible for UVIT Payload Operations Centre data processing and validation
           - Support UVIT observations, calibration activities, and mission data releases
-
       - company: Indian Institute of Astrophysics
-        position: Research Trainee (UVIT Payload Operations Centre) 
+        position: Research Trainee (UVIT Payload Operations Centre)
         date:
         start_date: 2016-08
         end_date: 2022-05
         location: Bangalore, India
-        
       - company: Bishop Cotton Women's Christian College
-        position: Guest lecturer 
+        position: Guest lecturer
         date:
         start_date: 2015-06
         end_date: 2016-03
         location: Bangalore, India
-                
     Peer reviewed publications:
-    - title: 'Nine years of UVIT: assessing sensitivity variation'
-      authors:
-        - Akanksha Dagore
-        - '***Prajwel Joseph***'
-        - S. N. Tandon
-        - Annapurni Subramaniam
-        - S. K. Ghosh
-        - C. S. Stalin
-      doi: 10.48550/arXiv.2512.24475
-      url:
-      journal: Accepted, The Astronomical Journal
-      date: '2025-12-01'
-
-    - title: 'Redshift ~2.7 is not special: Comment on the Kolmogorov analysis of JWST deep survey galaxies'
-      authors:
-        - '***Prajwel Joseph***'
-      doi: 10.1051/0004-6361/202555988
-      url:
-      journal: Astronomy and Astrophysics
-      date: '2025-09-01'
-        
-    - title: 'Euclid: Early Release Observations of ram-pressure stripping in the Perseus cluster: Detection of parsec-scale star formation within the low surface brightness stripped tails of UGC 2665 and MCG +07-07-070'
-      authors:
-        - K. George
-        - A. Boselli
-        - J. C. Cuillandre
-        - M. Kümmel
-        - A. Lancon
-        - C. Bellhouse
-        - T. Saifollahi
-        - M. Mondelin
-        - M. Bolzonella
-        - '***Prajwel Joseph***'
-        - ...
-      doi: 10.1051/0004-6361/202554836
-      url:
-      journal: Astronomy and Astrophysics
-      date: '2025-09-01'
- 
-    - title: 'UVIT data release version 7: Regenerated high-level UVIT data products'
-      authors:
-        - '***Prajwel Joseph***'
-        - S. N. Tandon
-        - S. K. Ghosh
-        - C. S. Stalin
-      doi: 10.1007/s12036-025-10069-5
-      url:
-      journal: Journal of Astrophysics and Astronomy
-      date: '2025-07-01'
- 
-    - title: Ultraviolet Flux and Spectral Variability Study of Blazars Observed with UVIT/AstroSat
-      authors:
-        - M. Reshma
-        - Aditi Agarwal
-        - C. S. Stalin
-        - '***Prajwel Joseph***'
-        - Akanksha Dagore
-        - Amit Kumar Mandal
-        - Ashish Devaraj
-        - S. B. Gudennavar
-      doi: 10.3847/1538-4357/ad702e
-      url:
-      journal: The Astrophysical Journal
-      date: '2024-11-01'
-
-    - title: 'UVIT view of NGC 5291: Ongoing star formation in tidal dwarf galaxies at 0.35 kpc resolution'
-      authors:
-        - R. Rakhi
-        - Geethika Santhosh
-        - '***Prajwel Joseph***'
-        - Koshy George
-        - Smitha Subramanian
-        - Indulekha Kavila
-        - J. Postma
-        - Pierre-Alain Duc
-        - ...
-      doi: 10.1093/mnras/stad970
-      url:
-      journal: Monthly Notices of the Royal Astronomical Society
-      date: '2023-06-01'
-
-    - title: 'UVIT Observations of the Small Magellanic Cloud: Point-source Catalog'
-      authors:
-        - A. Devaraj
-        - '***Prajwel Joseph***'
-        - C. S. Stalin
-        - S. N. Tandon
-        - S. K. Ghosh
-      doi: 10.3847/1538-4357/acba9c
-      url:
-      journal: The Astrophysical Journal
-      date: '2023-04-01'
-
-    - title: An automated pipeline for Ultra-Violet Imaging Telescope
-      authors:
-        - S. K. Ghosh
-        - S. N. Tandon
-        - S. K. Singh
-        - D. S. Shelat
-        - P. Tahlani
-        - A. K. Singh
-        - T. P. Srinivasan
-        - '***Prajwel Joseph***'
-        - A. Devaraj
-        - Koshy George
-        - R. Mohan
-        - J. Postma
-        - C. S. Stalin
-      doi: 10.1007/s12036-022-09842-7
-      url:
-      journal: Journal of Astrophysics and Astronomy
-      date: '2022-12-01'
-
-    - title: Active galactic nucleus feedback in NGC 3982
-      authors:
-        - '***Prajwel Joseph***'
-        - Koshy George
-        - K. T. Paul
-      doi: 10.1051/0004-6361/202243923
-      url:
-      journal: Astronomy and Astrophysics
-      date: '2022-11-01'
-
-    - title: 'UVIT view of Centaurus A: a detailed study on positive AGN feedback'
-      authors:
-        - '***Prajwel Joseph***'
-        - P. Sreekumar
-        - C. S. Stalin
-        - K. T. Paul
-        - Chayan Mondal
-        - Koshy George
-        - Blesson Mathew
-      doi: 10.1093/mnras/stac2388
-      url:
-      journal: Monthly Notices of the Royal Astronomical Society
-      date: '2022-10-01'
-
-    - title: 'The Astropy Project: Sustaining and Growing a Community-oriented Open-source Project and the Latest Major Release (v5.0) of the Core Package'
-      authors:
-        - Astropy Collaboration
-        - ...        
-        - '***Prajwel Joseph***'
-        - ...
-      doi: 10.3847/1538-4357/ac7c74
-      url:
-      journal: The Astrophysical Journal
-      date: '2022-08-01'
-
-    - title: In-orbit performance of UVIT over the past 5 years
-      authors:
-        - S. K. Ghosh
-        - '***Prajwel Joseph***'
-        - A. Kumar
-        - J. Postma
-        - C. S. Stalin
-        - Annapurni Subramaniam
-        - S. N. Tandon
-      doi: 10.1007/s12036-020-09685-0
-      url:
-      journal: Journal of Astrophysics and Astronomy
-      date: '2021-10-01'
-
-    - title: 'Curvit: An open-source Python package to generate light curves from UVIT data'
-      authors:
-        - '***Prajwel Joseph***'
-        - C. S. Stalin
-        - S. N. Tandon
-        - S. K. Ghosh
-      doi: 10.1007/s12036-020-09680-5
-      url:
-      journal: Journal of Astrophysics and Astronomy
-      date: '2021-10-01'
-
-    - title: Performance of the UVIT Level-2 pipeline
-      authors:
-        - S. K. Ghosh
-        - S. N. Tandon
-        - '***Prajwel Joseph***'
-        - A. Devaraj
-        - D. S. Shelat
-        - C. S. Stalin
-      doi: 10.1007/s12036-020-09686-z
-      url:
-      journal: Journal of Astrophysics and Astronomy
-      date: '2021-10-01'
-
-    - title: 'More insights into bar quenching. Multi-wavelength analysis of four barred galaxies'
-      authors:
-        - Koshy George
-        - '***Prajwel Joseph***'
-        - Chayan Mondal
-        - Smitha Subramanian
-        - Annapurni Subramaniam
-        - K. T. Paul
-      doi: 10.1051/0004-6361/202038810
-      url:
-      journal: Astronomy and Astrophysics
-      date: '2020-12-01'
-
-    - title: Additional Calibration of the Ultraviolet Imaging Telescope on Board AstroSat
-      authors:
-        - S. N. Tandon
-        - J. Postma
-        - '***Prajwel Joseph***'
-        - A. Devaraj
-        - Annapurni Subramaniam
-        - I. V. Barve
-        - Koshy George
-        - S. K. Ghosh
-        - ...
-      doi: 10.3847/1538-3881/ab72a3
-      url:
-      journal: The Astronomical Journal
-      date: '2020-04-01'
-
-    - title: 'Insights on bar quenching from a multiwavelength analysis: The case of Messier 95'
-      authors:
-        - Koshy George
-        - '***Prajwel Joseph***'
-        - Chayan Mondal
-        - Smitha Subramanian
-        - Annapurni Subramaniam
-        - K. T. Paul
-      doi: 10.1051/0004-6361/201834500
-      url:
-      journal: Astronomy and Astrophysics
-      date: '2019-01-01'
-
-    - title: Long-term ultraviolet variability of Seyfert galaxies
-      authors:
-        - N. Sukanya
-        - C. S. Stalin
-        - '***Prajwel Joseph***'
-        - S. Rakshit
-        - D. Praveen
-        - R. Damle
-      doi: 10.1007/s12036-018-9556-z
-      url:
-      journal: Journal of Astrophysics and Astronomy
-      date: '2018-12-01'
-
-    - title: 'Dissecting star formation in the Atoms-for-Peace galaxy. UVIT observations of the post-merger galaxy NGC 7252'
-      authors:
-        - Koshy George
-        - '***Prajwel Joseph***'
-        - Patrick Côté
-        - S. K. Ghosh
-        - J. B. Hutchings
-        - R. Mohan
-        - J. Postma
-        - K. Sankarasubramanian
-        - ...
-      doi: 10.1051/0004-6361/201832705
-      url:
-      journal: Astronomy and Astrophysics
-      date: '2018-06-01'
-
-    - title: 'UVIT observations of the star-forming ring in NGC 7252: Evidence of possible AGN feedback suppressing central star formation'
-      authors:
-        - Koshy George
-        - '***Prajwel Joseph***'
-        - Chayan Mondal
-        - Ashish Devaraj
-        - Annapurni Subramaniam
-        - C. S. Stalin
-        - Patrick Côté
-        - S. K. Ghosh
-        - ...
-      doi: 10.1051/0004-6361/201833232
-      url:
-      journal: Astronomy and Astrophysics
-      date: '2018-05-01'
-
-    - title: In-orbit Calibrations of the Ultraviolet Imaging Telescope
-      authors:
-        - S. N. Tandon
-        - Annapurni Subramaniam
-        - V. Girish
-        - J. Postma
-        - K. Sankarasubramanian
-        - S. Sriram
-        - C. S. Stalin
-        - Chayan Mondal
-        - S. Sahu
-        - '***Prajwel Joseph***'
-      doi: 10.3847/1538-3881/aa8451
-      url:
-      journal: The Astronomical Journal
-      date: '2017-09-01'
-
-    - title: 'Search for Low-mass Objects in the Globular Cluster M4. I. Detection of Variable Stars'
-      authors:
-        - M. Safonova
-        - D. Mkrtichian
-        - P. Hasan
-        - F. Sutaria
-        - N. Brosch
-        - E. Gorbikov
-        - '***Prajwel Joseph***'
-      doi: 10.3847/0004-6256/151/2/27
-      url:
-      journal: The Astronomical Journal
-      date: '2016-02-01'
-
+      - title: Detection of time delay between UV and X-ray variability in Mrk 1044 using AstroSat observations
+        authors:
+          - M. Reshma
+          - C. S. Stalin
+          - Amit Kumar Mandal
+          - Abhijit Kayal
+          - S. B. Gudennavar
+          - '***Prajwel Joseph***'
+        journal: Accepted, Journal of High Energy Astrophysics
+        date: '2026-01-01'
+      - title: 'Nine years of UVIT: assessing sensitivity variation'
+        authors:
+          - Akanksha Dagore
+          - '***Prajwel Joseph***'
+          - S. N. Tandon
+          - Annapurni Subramaniam
+          - S. K. Ghosh
+          - C. S. Stalin
+        doi: 10.48550/arXiv.2512.24475
+        url:
+        journal: Accepted, The Astronomical Journal
+        date: '2025-12-01'
+      - title: 'Redshift ~2.7 is not special: Comment on the Kolmogorov analysis of JWST deep survey galaxies'
+        authors:
+          - '***Prajwel Joseph***'
+        doi: 10.1051/0004-6361/202555988
+        url:
+        journal: Astronomy and Astrophysics
+        date: '2025-09-01'
+      - title: 'Euclid: Early Release Observations of ram-pressure stripping in the Perseus cluster: Detection of parsec-scale star formation within the low surface brightness stripped tails of UGC 2665 and MCG +07-07-070'
+        authors:
+          - K. George
+          - A. Boselli
+          - J. C. Cuillandre
+          - M. Kümmel
+          - A. Lancon
+          - C. Bellhouse
+          - T. Saifollahi
+          - M. Mondelin
+          - M. Bolzonella
+          - '***Prajwel Joseph***'
+          - '...'
+        doi: 10.1051/0004-6361/202554836
+        url:
+        journal: Astronomy and Astrophysics
+        date: '2025-09-01'
+      - title: 'UVIT data release version 7: Regenerated high-level UVIT data products'
+        authors:
+          - '***Prajwel Joseph***'
+          - S. N. Tandon
+          - S. K. Ghosh
+          - C. S. Stalin
+        doi: 10.1007/s12036-025-10069-5
+        url:
+        journal: Journal of Astrophysics and Astronomy
+        date: '2025-07-01'
+      - title: Ultraviolet Flux and Spectral Variability Study of Blazars Observed with UVIT/AstroSat
+        authors:
+          - M. Reshma
+          - Aditi Agarwal
+          - C. S. Stalin
+          - '***Prajwel Joseph***'
+          - Akanksha Dagore
+          - Amit Kumar Mandal
+          - Ashish Devaraj
+          - S. B. Gudennavar
+        doi: 10.3847/1538-4357/ad702e
+        url:
+        journal: The Astrophysical Journal
+        date: '2024-11-01'
+      - title: 'UVIT view of NGC 5291: Ongoing star formation in tidal dwarf galaxies at 0.35 kpc resolution'
+        authors:
+          - R. Rakhi
+          - Geethika Santhosh
+          - '***Prajwel Joseph***'
+          - Koshy George
+          - Smitha Subramanian
+          - Indulekha Kavila
+          - J. Postma
+          - Pierre-Alain Duc
+          - '...'
+        doi: 10.1093/mnras/stad970
+        url:
+        journal: Monthly Notices of the Royal Astronomical Society
+        date: '2023-06-01'
+      - title: 'UVIT Observations of the Small Magellanic Cloud: Point-source Catalog'
+        authors:
+          - A. Devaraj
+          - '***Prajwel Joseph***'
+          - C. S. Stalin
+          - S. N. Tandon
+          - S. K. Ghosh
+        doi: 10.3847/1538-4357/acba9c
+        url:
+        journal: The Astrophysical Journal
+        date: '2023-04-01'
+      - title: An automated pipeline for Ultra-Violet Imaging Telescope
+        authors:
+          - S. K. Ghosh
+          - S. N. Tandon
+          - S. K. Singh
+          - D. S. Shelat
+          - P. Tahlani
+          - A. K. Singh
+          - T. P. Srinivasan
+          - '***Prajwel Joseph***'
+          - A. Devaraj
+          - Koshy George
+          - R. Mohan
+          - J. Postma
+          - C. S. Stalin
+        doi: 10.1007/s12036-022-09842-7
+        url:
+        journal: Journal of Astrophysics and Astronomy
+        date: '2022-12-01'
+      - title: Active galactic nucleus feedback in NGC 3982
+        authors:
+          - '***Prajwel Joseph***'
+          - Koshy George
+          - K. T. Paul
+        doi: 10.1051/0004-6361/202243923
+        url:
+        journal: Astronomy and Astrophysics
+        date: '2022-11-01'
+      - title: 'UVIT view of Centaurus A: a detailed study on positive AGN feedback'
+        authors:
+          - '***Prajwel Joseph***'
+          - P. Sreekumar
+          - C. S. Stalin
+          - K. T. Paul
+          - Chayan Mondal
+          - Koshy George
+          - Blesson Mathew
+        doi: 10.1093/mnras/stac2388
+        url:
+        journal: Monthly Notices of the Royal Astronomical Society
+        date: '2022-10-01'
+      - title: 'The Astropy Project: Sustaining and Growing a Community-oriented Open-source Project and the Latest Major Release (v5.0) of the Core Package'
+        authors:
+          - Astropy Collaboration
+          - '...'
+          - '***Prajwel Joseph***'
+          - '...'
+        doi: 10.3847/1538-4357/ac7c74
+        url:
+        journal: The Astrophysical Journal
+        date: '2022-08-01'
+      - title: In-orbit performance of UVIT over the past 5 years
+        authors:
+          - S. K. Ghosh
+          - '***Prajwel Joseph***'
+          - A. Kumar
+          - J. Postma
+          - C. S. Stalin
+          - Annapurni Subramaniam
+          - S. N. Tandon
+        doi: 10.1007/s12036-020-09685-0
+        url:
+        journal: Journal of Astrophysics and Astronomy
+        date: '2021-10-01'
+      - title: 'Curvit: An open-source Python package to generate light curves from UVIT data'
+        authors:
+          - '***Prajwel Joseph***'
+          - C. S. Stalin
+          - S. N. Tandon
+          - S. K. Ghosh
+        doi: 10.1007/s12036-020-09680-5
+        url:
+        journal: Journal of Astrophysics and Astronomy
+        date: '2021-10-01'
+      - title: Performance of the UVIT Level-2 pipeline
+        authors:
+          - S. K. Ghosh
+          - S. N. Tandon
+          - '***Prajwel Joseph***'
+          - A. Devaraj
+          - D. S. Shelat
+          - C. S. Stalin
+        doi: 10.1007/s12036-020-09686-z
+        url:
+        journal: Journal of Astrophysics and Astronomy
+        date: '2021-10-01'
+      - title: 'More insights into bar quenching. Multi-wavelength analysis of four barred galaxies'
+        authors:
+          - Koshy George
+          - '***Prajwel Joseph***'
+          - Chayan Mondal
+          - Smitha Subramanian
+          - Annapurni Subramaniam
+          - K. T. Paul
+        doi: 10.1051/0004-6361/202038810
+        url:
+        journal: Astronomy and Astrophysics
+        date: '2020-12-01'
+      - title: Additional Calibration of the Ultraviolet Imaging Telescope on Board AstroSat
+        authors:
+          - S. N. Tandon
+          - J. Postma
+          - '***Prajwel Joseph***'
+          - A. Devaraj
+          - Annapurni Subramaniam
+          - I. V. Barve
+          - Koshy George
+          - S. K. Ghosh
+          - '...'
+        doi: 10.3847/1538-3881/ab72a3
+        url:
+        journal: The Astronomical Journal
+        date: '2020-04-01'
+      - title: 'Insights on bar quenching from a multiwavelength analysis: The case of Messier 95'
+        authors:
+          - Koshy George
+          - '***Prajwel Joseph***'
+          - Chayan Mondal
+          - Smitha Subramanian
+          - Annapurni Subramaniam
+          - K. T. Paul
+        doi: 10.1051/0004-6361/201834500
+        url:
+        journal: Astronomy and Astrophysics
+        date: '2019-01-01'
+      - title: Long-term ultraviolet variability of Seyfert galaxies
+        authors:
+          - N. Sukanya
+          - C. S. Stalin
+          - '***Prajwel Joseph***'
+          - S. Rakshit
+          - D. Praveen
+          - R. Damle
+        doi: 10.1007/s12036-018-9556-z
+        url:
+        journal: Journal of Astrophysics and Astronomy
+        date: '2018-12-01'
+      - title: 'Dissecting star formation in the Atoms-for-Peace galaxy. UVIT observations of the post-merger galaxy NGC 7252'
+        authors:
+          - Koshy George
+          - '***Prajwel Joseph***'
+          - Patrick Côté
+          - S. K. Ghosh
+          - J. B. Hutchings
+          - R. Mohan
+          - J. Postma
+          - K. Sankarasubramanian
+          - '...'
+        doi: 10.1051/0004-6361/201832705
+        url:
+        journal: Astronomy and Astrophysics
+        date: '2018-06-01'
+      - title: 'UVIT observations of the star-forming ring in NGC 7252: Evidence of possible AGN feedback suppressing central star formation'
+        authors:
+          - Koshy George
+          - '***Prajwel Joseph***'
+          - Chayan Mondal
+          - Ashish Devaraj
+          - Annapurni Subramaniam
+          - C. S. Stalin
+          - Patrick Côté
+          - S. K. Ghosh
+          - '...'
+        doi: 10.1051/0004-6361/201833232
+        url:
+        journal: Astronomy and Astrophysics
+        date: '2018-05-01'
+      - title: In-orbit Calibrations of the Ultraviolet Imaging Telescope
+        authors:
+          - S. N. Tandon
+          - Annapurni Subramaniam
+          - V. Girish
+          - J. Postma
+          - K. Sankarasubramanian
+          - S. Sriram
+          - C. S. Stalin
+          - Chayan Mondal
+          - S. Sahu
+          - '***Prajwel Joseph***'
+        doi: 10.3847/1538-3881/aa8451
+        url:
+        journal: The Astronomical Journal
+        date: '2017-09-01'
+      - title: 'Search for Low-mass Objects in the Globular Cluster M4. I. Detection of Variable Stars'
+        authors:
+          - M. Safonova
+          - D. Mkrtichian
+          - P. Hasan
+          - F. Sutaria
+          - N. Brosch
+          - E. Gorbikov
+          - '***Prajwel Joseph***'
+        doi: 10.3847/0004-6256/151/2/27
+        url:
+        journal: The Astronomical Journal
+        date: '2016-02-01'
     Open source projects:
       - name: '[UVIT Level2 pipeline](https://github.com/prajwel/UVPipe)'
         summary: Used to generate high-level (Level2) UVIT data products; adopted for official UVIT data release version 7 and archived at ISRO Science Data Archive.
-
       - name: '[Curvit](https://github.com/prajwel/curvit)'
-        summary:  Curvit is a python package to generate light curves from UVIT data.
-
+        summary: Curvit is a python package to generate light curves from UVIT data.
       - name: '[Aafitrans](https://github.com/prajwel/aafitrans)'
         summary: Aafitrans is a Python package that builds upon the capabilities of the Astroalign package's find_transform function. It incorporates several modifications to improve its functionality and performance.
-        
       - name: '[CanUVIT](https://github.com/prajwel/canuvit)'
         summary: To check whether a field can be safely observed with UVIT.
-        
 design:
   theme: classic
   # page:
