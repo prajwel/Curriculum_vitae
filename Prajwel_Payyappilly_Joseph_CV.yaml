@@ -1,0 +1,531 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
+cv:
+  name: Prajwel Payyappilly Joseph
+  headline:
+  location: Bangalore, India
+  email: prajwel.pj@gmail.com
+  photo:
+  phone:
+  website: https://prajwel.github.io/
+  social_networks:
+    - network: ORCID
+      username: 0000-0003-1409-1903
+    - network: GitHub
+      username: prajwel
+  custom_connections:
+  sections:
+    Summary:
+      - I am a Project Scientist at the AstroSat UltraViolet Imaging Telescope (UVIT) Payload Operations Centre at the Indian Institute of Astrophysics, Bangalore. My research focuses on ultraviolet and multi-wavelength studies of nearby galaxies, AGN feedback, and star formation, supported by extensive experience in space-mission operations and data pipeline development. I actively develop and maintain open-source software for UV astronomy.
+    education:
+      - institution: CHRIST (Deemed to be University)
+        area: Astrophysics
+        degree: PhD
+        date:
+        start_date: 2017-12
+        end_date: 2025-03
+        summary:
+        highlights:
+          - 'Thesis: Study of the effect of AGN activity on star formation in nearby galaxies using UVIT'
+          - 'Supervisors: Dr. Blesson Mathew, Prof. P. Sreekumar'
+          - 'Thesis resulted in first-author refereed publications in A&A and MNRAS.'
+      - institution: CHRIST (Deemed to be University)
+        area: Physics
+        degree: MSc
+        date:
+        start_date: 2013-05
+        end_date: 2015-03
+        summary:
+        highlights:
+    experience:
+      - company: Indian Institute of Astrophysics
+        position: Project Scientist-I (UVIT Payload Operations Centre)
+        date:
+        start_date: 2022-07
+        end_date: present
+        location: Bangalore, India
+        highlights:
+          - Lead contributor to UVIT Level2 pipeline (v7) and mission data products
+          - Responsible for UVIT Payload Operations Centre data processing and validation
+          - Support UVIT observations, calibration activities, and mission data releases
+
+      - company: Indian Institute of Astrophysics
+        position: Research Trainee (UVIT Payload Operations Centre) 
+        date:
+        start_date: 2016-08
+        end_date: 2022-05
+        location: Bangalore, India
+        
+      - company: Bishop Cotton Women's Christian College
+        position: Guest lecturer 
+        date:
+        start_date: 2015-06
+        end_date: 2016-03
+        location: Bangalore, India
+                
+    Peer reviewed publications:
+    - title: 'Nine years of UVIT: assessing sensitivity variation'
+      authors:
+        - Akanksha Dagore
+        - '***Prajwel Joseph***'
+        - S. N. Tandon
+        - Annapurni Subramaniam
+        - S. K. Ghosh
+        - C. S. Stalin
+      doi: 10.48550/arXiv.2512.24475
+      url:
+      journal: Accepted, The Astronomical Journal
+      date: '2025-12-01'
+
+    - title: 'Redshift ~2.7 is not special: Comment on the Kolmogorov analysis of JWST deep survey galaxies'
+      authors:
+        - '***Prajwel Joseph***'
+      doi: 10.1051/0004-6361/202555988
+      url:
+      journal: Astronomy and Astrophysics
+      date: '2025-09-01'
+        
+    - title: 'Euclid: Early Release Observations of ram-pressure stripping in the Perseus cluster: Detection of parsec-scale star formation within the low surface brightness stripped tails of UGC 2665 and MCG +07-07-070'
+      authors:
+        - K. George
+        - A. Boselli
+        - J. C. Cuillandre
+        - M. Kümmel
+        - A. Lancon
+        - C. Bellhouse
+        - T. Saifollahi
+        - M. Mondelin
+        - M. Bolzonella
+        - '***Prajwel Joseph***'
+        - ...
+      doi: 10.1051/0004-6361/202554836
+      url:
+      journal: Astronomy and Astrophysics
+      date: '2025-09-01'
+ 
+    - title: 'UVIT data release version 7: Regenerated high-level UVIT data products'
+      authors:
+        - '***Prajwel Joseph***'
+        - S. N. Tandon
+        - S. K. Ghosh
+        - C. S. Stalin
+      doi: 10.1007/s12036-025-10069-5
+      url:
+      journal: Journal of Astrophysics and Astronomy
+      date: '2025-07-01'
+ 
+    - title: Ultraviolet Flux and Spectral Variability Study of Blazars Observed with UVIT/AstroSat
+      authors:
+        - M. Reshma
+        - Aditi Agarwal
+        - C. S. Stalin
+        - '***Prajwel Joseph***'
+        - Akanksha Dagore
+        - Amit Kumar Mandal
+        - Ashish Devaraj
+        - S. B. Gudennavar
+      doi: 10.3847/1538-4357/ad702e
+      url:
+      journal: The Astrophysical Journal
+      date: '2024-11-01'
+
+    - title: 'UVIT view of NGC 5291: Ongoing star formation in tidal dwarf galaxies at 0.35 kpc resolution'
+      authors:
+        - R. Rakhi
+        - Geethika Santhosh
+        - '***Prajwel Joseph***'
+        - Koshy George
+        - Smitha Subramanian
+        - Indulekha Kavila
+        - J. Postma
+        - Pierre-Alain Duc
+        - ...
+      doi: 10.1093/mnras/stad970
+      url:
+      journal: Monthly Notices of the Royal Astronomical Society
+      date: '2023-06-01'
+
+    - title: 'UVIT Observations of the Small Magellanic Cloud: Point-source Catalog'
+      authors:
+        - A. Devaraj
+        - '***Prajwel Joseph***'
+        - C. S. Stalin
+        - S. N. Tandon
+        - S. K. Ghosh
+      doi: 10.3847/1538-4357/acba9c
+      url:
+      journal: The Astrophysical Journal
+      date: '2023-04-01'
+
+    - title: An automated pipeline for Ultra-Violet Imaging Telescope
+      authors:
+        - S. K. Ghosh
+        - S. N. Tandon
+        - S. K. Singh
+        - D. S. Shelat
+        - P. Tahlani
+        - A. K. Singh
+        - T. P. Srinivasan
+        - '***Prajwel Joseph***'
+        - A. Devaraj
+        - Koshy George
+        - R. Mohan
+        - J. Postma
+        - C. S. Stalin
+      doi: 10.1007/s12036-022-09842-7
+      url:
+      journal: Journal of Astrophysics and Astronomy
+      date: '2022-12-01'
+
+    - title: Active galactic nucleus feedback in NGC 3982
+      authors:
+        - '***Prajwel Joseph***'
+        - Koshy George
+        - K. T. Paul
+      doi: 10.1051/0004-6361/202243923
+      url:
+      journal: Astronomy and Astrophysics
+      date: '2022-11-01'
+
+    - title: 'UVIT view of Centaurus A: a detailed study on positive AGN feedback'
+      authors:
+        - '***Prajwel Joseph***'
+        - P. Sreekumar
+        - C. S. Stalin
+        - K. T. Paul
+        - Chayan Mondal
+        - Koshy George
+        - Blesson Mathew
+      doi: 10.1093/mnras/stac2388
+      url:
+      journal: Monthly Notices of the Royal Astronomical Society
+      date: '2022-10-01'
+
+    - title: 'The Astropy Project: Sustaining and Growing a Community-oriented Open-source Project and the Latest Major Release (v5.0) of the Core Package'
+      authors:
+        - Astropy Collaboration
+        - ...        
+        - '***Prajwel Joseph***'
+        - ...
+      doi: 10.3847/1538-4357/ac7c74
+      url:
+      journal: The Astrophysical Journal
+      date: '2022-08-01'
+
+    - title: In-orbit performance of UVIT over the past 5 years
+      authors:
+        - S. K. Ghosh
+        - '***Prajwel Joseph***'
+        - A. Kumar
+        - J. Postma
+        - C. S. Stalin
+        - Annapurni Subramaniam
+        - S. N. Tandon
+      doi: 10.1007/s12036-020-09685-0
+      url:
+      journal: Journal of Astrophysics and Astronomy
+      date: '2021-10-01'
+
+    - title: 'Curvit: An open-source Python package to generate light curves from UVIT data'
+      authors:
+        - '***Prajwel Joseph***'
+        - C. S. Stalin
+        - S. N. Tandon
+        - S. K. Ghosh
+      doi: 10.1007/s12036-020-09680-5
+      url:
+      journal: Journal of Astrophysics and Astronomy
+      date: '2021-10-01'
+
+    - title: Performance of the UVIT Level-2 pipeline
+      authors:
+        - S. K. Ghosh
+        - S. N. Tandon
+        - '***Prajwel Joseph***'
+        - A. Devaraj
+        - D. S. Shelat
+        - C. S. Stalin
+      doi: 10.1007/s12036-020-09686-z
+      url:
+      journal: Journal of Astrophysics and Astronomy
+      date: '2021-10-01'
+
+    - title: 'More insights into bar quenching. Multi-wavelength analysis of four barred galaxies'
+      authors:
+        - Koshy George
+        - '***Prajwel Joseph***'
+        - Chayan Mondal
+        - Smitha Subramanian
+        - Annapurni Subramaniam
+        - K. T. Paul
+      doi: 10.1051/0004-6361/202038810
+      url:
+      journal: Astronomy and Astrophysics
+      date: '2020-12-01'
+
+    - title: Additional Calibration of the Ultraviolet Imaging Telescope on Board AstroSat
+      authors:
+        - S. N. Tandon
+        - J. Postma
+        - '***Prajwel Joseph***'
+        - A. Devaraj
+        - Annapurni Subramaniam
+        - I. V. Barve
+        - Koshy George
+        - S. K. Ghosh
+        - ...
+      doi: 10.3847/1538-3881/ab72a3
+      url:
+      journal: The Astronomical Journal
+      date: '2020-04-01'
+
+    - title: 'Insights on bar quenching from a multiwavelength analysis: The case of Messier 95'
+      authors:
+        - Koshy George
+        - '***Prajwel Joseph***'
+        - Chayan Mondal
+        - Smitha Subramanian
+        - Annapurni Subramaniam
+        - K. T. Paul
+      doi: 10.1051/0004-6361/201834500
+      url:
+      journal: Astronomy and Astrophysics
+      date: '2019-01-01'
+
+    - title: Long-term ultraviolet variability of Seyfert galaxies
+      authors:
+        - N. Sukanya
+        - C. S. Stalin
+        - '***Prajwel Joseph***'
+        - S. Rakshit
+        - D. Praveen
+        - R. Damle
+      doi: 10.1007/s12036-018-9556-z
+      url:
+      journal: Journal of Astrophysics and Astronomy
+      date: '2018-12-01'
+
+    - title: 'Dissecting star formation in the Atoms-for-Peace galaxy. UVIT observations of the post-merger galaxy NGC 7252'
+      authors:
+        - Koshy George
+        - '***Prajwel Joseph***'
+        - Patrick Côté
+        - S. K. Ghosh
+        - J. B. Hutchings
+        - R. Mohan
+        - J. Postma
+        - K. Sankarasubramanian
+        - ...
+      doi: 10.1051/0004-6361/201832705
+      url:
+      journal: Astronomy and Astrophysics
+      date: '2018-06-01'
+
+    - title: 'UVIT observations of the star-forming ring in NGC 7252: Evidence of possible AGN feedback suppressing central star formation'
+      authors:
+        - Koshy George
+        - '***Prajwel Joseph***'
+        - Chayan Mondal
+        - Ashish Devaraj
+        - Annapurni Subramaniam
+        - C. S. Stalin
+        - Patrick Côté
+        - S. K. Ghosh
+        - ...
+      doi: 10.1051/0004-6361/201833232
+      url:
+      journal: Astronomy and Astrophysics
+      date: '2018-05-01'
+
+    - title: In-orbit Calibrations of the Ultraviolet Imaging Telescope
+      authors:
+        - S. N. Tandon
+        - Annapurni Subramaniam
+        - V. Girish
+        - J. Postma
+        - K. Sankarasubramanian
+        - S. Sriram
+        - C. S. Stalin
+        - Chayan Mondal
+        - S. Sahu
+        - '***Prajwel Joseph***'
+      doi: 10.3847/1538-3881/aa8451
+      url:
+      journal: The Astronomical Journal
+      date: '2017-09-01'
+
+    - title: 'Search for Low-mass Objects in the Globular Cluster M4. I. Detection of Variable Stars'
+      authors:
+        - M. Safonova
+        - D. Mkrtichian
+        - P. Hasan
+        - F. Sutaria
+        - N. Brosch
+        - E. Gorbikov
+        - '***Prajwel Joseph***'
+      doi: 10.3847/0004-6256/151/2/27
+      url:
+      journal: The Astronomical Journal
+      date: '2016-02-01'
+
+    Open source projects:
+      - name: '[UVIT Level2 pipeline](https://github.com/prajwel/UVPipe)'
+        summary: Used to generate high-level (Level2) UVIT data products; adopted for official UVIT data release version 7 and archived at ISRO Science Data Archive.
+
+      - name: '[Curvit](https://github.com/prajwel/curvit)'
+        summary:  Curvit is a python package to generate light curves from UVIT data.
+
+      - name: '[Aafitrans](https://github.com/prajwel/aafitrans)'
+        summary: Aafitrans is a Python package that builds upon the capabilities of the Astroalign package's find_transform function. It incorporates several modifications to improve its functionality and performance.
+        
+      - name: '[CanUVIT](https://github.com/prajwel/canuvit)'
+        summary: To check whether a field can be safely observed with UVIT.
+        
+design:
+  theme: classic
+  # page:
+  #   size: us-letter
+  #   top_margin: 0.7in
+  #   bottom_margin: 0.7in
+  #   left_margin: 0.7in
+  #   right_margin: 0.7in
+  #   show_footer: true
+  #   show_top_note: true
+  # colors:
+  #   body: rgb(0, 0, 0)
+  #   name: rgb(0, 79, 144)
+  #   headline: rgb(0, 79, 144)
+  #   connections: rgb(0, 79, 144)
+  #   section_titles: rgb(0, 79, 144)
+  #   links: rgb(0, 79, 144)
+  #   footer: rgb(128, 128, 128)
+  #   top_note: rgb(128, 128, 128)
+  # typography:
+  #   line_spacing: 0.6em
+  #   alignment: justified
+  #   date_and_location_column_alignment: right
+  #   font_family:
+  #     body: Source Sans 3
+  #     name: Source Sans 3
+  #     headline: Source Sans 3
+  #     connections: Source Sans 3
+  #     section_titles: Source Sans 3
+  #   font_size:
+  #     body: 10pt
+  #     name: 30pt
+  #     headline: 10pt
+  #     connections: 10pt
+  #     section_titles: 1.4em
+  #   small_caps:
+  #     name: false
+  #     headline: false
+  #     connections: false
+  #     section_titles: false
+  #   bold:
+  #     name: true
+  #     headline: false
+  #     connections: false
+  #     section_titles: true
+  # links:
+  #   underline: false
+  #   show_external_link_icon: false
+  # header:
+  #   alignment: center
+  #   photo_width: 3.5cm
+  #   photo_position: left
+  #   photo_space_left: 0.4cm
+  #   photo_space_right: 0.4cm
+  #   space_below_name: 0.7cm
+  #   space_below_headline: 0.7cm
+  #   space_below_connections: 0.7cm
+  #   connections:
+  #     phone_number_format: national
+  #     hyperlink: true
+  #     show_icons: true
+  #     display_urls_instead_of_usernames: false
+  #     separator: ''
+  #     space_between_connections: 0.5cm
+  # section_titles:
+  #   type: with_partial_line
+  #   line_thickness: 0.5pt
+  #   space_above: 0.5cm
+  #   space_below: 0.3cm
+  # sections:
+  #   allow_page_break: true
+  #   space_between_regular_entries: 1.2em
+  #   space_between_text_based_entries: 0.3em
+  #   show_time_spans_in:
+  #     - experience
+  # entries:
+  #   date_and_location_width: 4.15cm
+  #   side_space: 0.2cm
+  #   space_between_columns: 0.1cm
+  #   allow_page_break: false
+  #   short_second_row: true
+  #   summary:
+  #     space_above: 0cm
+  #     space_left: 0cm
+  #   highlights:
+  #     bullet: •
+  #     nested_bullet: •
+  #     space_left: 0.15cm
+  #     space_above: 0cm
+  #     space_between_items: 0cm
+  #     space_between_bullet_and_text: 0.5em
+  # templates:
+  #   footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
+  #   top_note: '*LAST_UPDATED CURRENT_DATE*'
+  #   single_date: MONTH_ABBREVIATION YEAR
+  #   date_range: START_DATE – END_DATE
+  #   time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
+  #   one_line_entry:
+  #     main_column: '**LABEL:** DETAILS'
+  #   education_entry:
+  #     main_column: |-
+  #       **INSTITUTION**, AREA
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     degree_column: '**DEGREE**'
+  #     date_and_location_column: |-
+  #       LOCATION
+  #       DATE
+  #   normal_entry:
+  #     main_column: |-
+  #       **NAME**
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     date_and_location_column: |-
+  #       LOCATION
+  #       DATE
+  #   experience_entry:
+  #     main_column: |-
+  #       **COMPANY**, POSITION
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     date_and_location_column: |-
+  #       LOCATION
+  #       DATE
+  #   publication_entry:
+  #     main_column: |-
+  #       **TITLE**
+  #       SUMMARY
+  #       AUTHORS
+  #       URL (JOURNAL)
+  #     date_and_location_column: DATE
+locale:
+  language: english
+settings:
+  current_date: '2026-01-07'
+  render_command:
+    design:
+    locale:
+    typst_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.typ
+    pdf_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.pdf
+    markdown_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.md
+    html_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.html
+    png_path: rendercv_output/NAME_IN_SNAKE_CASE_CV.png
+    dont_generate_markdown: true
+    dont_generate_html: false
+    dont_generate_typst: false
+    dont_generate_pdf: false
+    dont_generate_png: true
+  bold_keywords: []
