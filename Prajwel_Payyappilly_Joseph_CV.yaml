@@ -78,7 +78,7 @@ cv:
         url:
         journal: Journal of High Energy Astrophysics
         date: '2026-01-01'
-      - title: 'Nine years of UVIT: assessing sensitivity variation'
+      - title: 'Nine Years of UVIT: Assessing Sensitivity Variation'
         authors:
           - Akanksha Dagore
           - '***Prajwel Joseph***'
@@ -86,9 +86,9 @@ cv:
           - Annapurni Subramaniam
           - S. K. Ghosh
           - C. S. Stalin
-        doi: 10.48550/arXiv.2512.24475
+        doi: 10.3847/1538-3881/ae38d5
         url:
-        journal: Accepted, The Astronomical Journal
+        journal: The Astronomical Journal
         date: '2025-12-01'
       - title: 'Redshift ~2.7 is not special: Comment on the Kolmogorov analysis of JWST deep survey galaxies'
         authors:
