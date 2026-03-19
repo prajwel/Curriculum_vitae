@@ -46,7 +46,7 @@ cv:
       - company: Indian Institute of Astrophysics
         position: Project Scientist-I (UVIT Payload Operations Centre)
         date:
-        start_date: 2022-07
+        start_date: 2022-07-14
         end_date: present
         location: Bangalore, India
         highlights:
@@ -56,8 +56,8 @@ cv:
       - company: Indian Institute of Astrophysics
         position: Research Trainee (UVIT Payload Operations Centre)
         date:
-        start_date: 2016-08
-        end_date: 2022-05
+        start_date: 2016-08-23
+        end_date: 2022-05-22
         location: Bangalore, India
       - company: Bishop Cotton Women's Christian College
         position: Guest lecturer
@@ -66,6 +66,18 @@ cv:
         end_date: 2016-03
         location: Bangalore, India
     Peer reviewed publications:
+      - title: Ultraviolet variability in Radio-Loud Active Galactic Nuclei observed by UVIT onboard AstroSat
+        authors:
+          - M. Reshma
+          - C. S. Stalin
+          - Amit Kumar Mandal
+          - S. B. Gudennavar
+          - Senorita Benedict
+          - '***Prajwel Joseph***'
+        doi: 10.48550/arXiv.2603.17064
+        url:
+        journal: Journal of High Energy Astrophysics
+        date: '2026-03-01'
       - title: Detection of time delay between UV and X-ray variability in Mrk 1044 using AstroSat observations
         authors:
           - M. Reshma
@@ -503,7 +515,7 @@ design:
 locale:
   language: english
 settings:
-  current_date: '2026-01-07'
+  #  current_date: '2026-02-25'
   render_command:
     design:
     locale:
